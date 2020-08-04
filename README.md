@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/utjh46h8rw48jy8o?svg=true)](https://ci.appveyor.com/project/MKSInc/ajs-hw-11-symbols-iterators-generators-1-symbols-a)
 
-# Домашнее задание к лекции «Символы, итераторы, генераторы»
+# 11. Домашнее задание к лекции «Символы, итераторы, генераторы»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
@@ -28,7 +28,7 @@ const char = {
 }
 ```
 
-## Символы & итераторы
+## 11.1 Символы & итераторы
 
 ### Легенда
 
